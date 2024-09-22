@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384077576399",
+    "project_id": "bentogrid-375ae",
+    "storage_bucket": "bentogrid-375ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384077576399:android:cc40f13142a19739e3dfba",
+        "android_client_info": {
+          "package_name": "com.example.bento_image_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-Tdp70SYflp83KBmy0VkHB3hciVlkOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
